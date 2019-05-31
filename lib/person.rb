@@ -8,7 +8,7 @@ class Dog
   def name
     @name
   end
-  
+
   def job
     @job
   end
@@ -19,5 +19,5 @@ class Dog
     @job = new_job
   end
 
-  
+
 end
