@@ -1,4 +1,4 @@
-class Dog
+class Person
 
   def intialize(name, job)
     @name = name
@@ -15,6 +15,8 @@ class Dog
 
   def name=(new_name)
     @name
+  end
+  
   def job=(new_job)
     @job = new_job
   end
